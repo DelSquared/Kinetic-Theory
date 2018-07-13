@@ -100,6 +100,3 @@ function draw() {
   }
 
 }
-
-//d(Tg-T)/dt = -(Tg-T)
-//D = (1 - 1/FR) + sq(3T/m)/FR*c
