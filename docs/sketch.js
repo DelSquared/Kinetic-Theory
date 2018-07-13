@@ -44,7 +44,7 @@ function setup() {
     stroke(p[i].r,p[i].g,p[i].b);
     point(p[i].x,p[i].y);
   }
-  tSlider = createSlider(0,1000,100);
+  tSlider = createSlider(0,3000,100);
   tSlider.position(w/2+20,h+8);
   t=tSlider.value()
 }
